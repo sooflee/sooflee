@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @sooflee.
-- 💞️ I’m looking to collaborate on startup ideas.
+- 💞️ I’m down to talk about interesting ideas.
 - 📫 This is mainly to host private repos. Send a Pull Request to reach me!
