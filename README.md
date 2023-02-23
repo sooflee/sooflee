@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @sooflee.
-- 💞️ I’m down to talk about interesting ideas.
-- 📫 This is mainly to host private repos. Send a Pull Request to reach me!
+- This is to host private repos. Send a Pull Request to reach me!
